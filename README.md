@@ -1,2 +1,7 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Software Engineering Article
+
+[This](https://www.spiceworks.com/tech/devops/articles/software-developer-vs-software-engineer/) is the article that I read/wanted to talk about.
+
+In class, we talked about how often times, jobs with titles besides "Software Engineer" can still possess the same responsibilities of a software engineer. One of the examples was "Software Developer". This article claims that these two are often fundamentally misunderstood, and have distinct responsibilities. However, it also admits that the jobs of a software developer and a software engineer can overlap.
+
+One main distinction that the article mentions is that while a software engineer adheres to a specific principles in their work, a software developer is more freeform. Furthermore, a software engineer is a professional within an organization, while a software developer can be either part of a company or a freelancer. I found this really interesting because the article seems to think of a software developer as being more of the "bespoke developer" that was mentioned during lecture. For example, some of a software developer's responsibilities, according to the article, includes "understanding client or user expectations" and "developing and testing software to meet the desires of a specific client". These all sound like the "\[producing\] beautiful works of art perfectly fitted to the customer's needs" motto of the bespoke developer. Another important distinction that the article made was about the future career paths of software developers versus software engineers. The author believes that software engineers are headed more along the path of team leads and management, whereas software developers are likely to become consultants.
